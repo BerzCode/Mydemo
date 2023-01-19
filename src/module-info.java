@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author skirv
+ *
+ */
+module Mydemo {
+}
